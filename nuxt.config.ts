@@ -39,6 +39,7 @@ const config: NuxtConfig = {
     '@nuxtjs/stylelint-module',
     // https://github.com/nuxt-community/composition-api
     '@nuxtjs/composition-api/module',
+    '@pinia/nuxt',
     '@nuxtjs/vuetify'
   ],
 
