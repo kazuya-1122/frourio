@@ -1,5 +1,12 @@
 # Nuxt.js project
 
+## 概要
+
+- frourio で Nuxt/Vue + Composition API + Pinia + Vuetify を構築
+- デザインパターン
+  - Atomic Components
+  - Presentational / Container Component
+
 ## Build Setup
 
 ```bash
